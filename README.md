@@ -1,0 +1,1 @@
+This repository contains exercises about simple_shell.
